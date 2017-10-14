@@ -1,0 +1,26 @@
+SQL> @/home/chaitanya/Desktop/Final_project_2/Execute_package_script.sql
+Inserting staging tracking id for account export job. Time 05/03/2016 00:47:29
+Starting account info stage job. Batch tracking id : 13 Time 05/03/2016 00:47:29
+Retrieving export job tracking id. Time 05/03/2016 00:48:07
+Starting account info export job. Batch tracking id : 14 Time 05/03/2016
+00:48:07
+Finished account info export using bulk inserts and writes. Time 05/03/2016
+00:48:31
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:01:02.18
+SQL> @/home/chaitanya/Desktop/Final_project_2/Execute_no_bulk_package_script.sql
+Inserting staging tracking id for account export job. Time 05/03/2016 00:49:00
+Starting account info stage job. Batch tracking id : 15 Time 05/03/2016 00:49:00
+Retrieving export job tracking id. Time 05/03/2016 00:49:59
+Starting account info export job. Batch tracking id : 16 Time 05/03/2016
+00:49:59
+Finished account info export using bulk inserts and writes. Time 05/03/2016
+00:50:22
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:01:22.56
+SQL> 
+

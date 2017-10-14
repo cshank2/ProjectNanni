@@ -1,0 +1,46 @@
+**************************************Starting a new run***************************************
+
+SQL*Plus: Release 11.2.0.2.0 Production on Mon Jul 25 11:50:01 2016
+
+Copyright (c) 1982, 2011, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Express Edition Release 11.2.0.2.0 - 64bit Production
+
+SQL> SQL> SQL>   2    3    4  **************************************Starting a new run***************************************
+
+SQL*Plus: Release 11.2.0.2.0 Production on Mon Jul 25 11:55:01 2016
+
+Copyright (c) 1982, 2011, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Express Edition Release 11.2.0.2.0 - 64bit Production
+
+SQL> SQL> SQL>   2    3    4  Inserting staging tracking id for account export job. Time 07/25/2016 11:50:01
+Starting account info stage job. Batch tracking id : 535 Time 07/25/2016
+11:50:01
+Retrieving export job tracking id. Time 07/25/2016 11:52:22
+Starting account info export job. Batch tracking id : 540 Time 07/25/2016
+11:52:22
+Finished account info export using bulk inserts and writes. Time 07/25/2016
+11:55:08
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:05:07.07
+SQL> Disconnected from Oracle Database 11g Express Edition Release 11.2.0.2.0 - 64bit Production
+Inserting staging tracking id for account export job. Time 07/25/2016 11:55:01
+Starting account info stage job. Batch tracking id : 542 Time 07/25/2016
+11:55:01
+Retrieving export job tracking id. Time 07/25/2016 11:56:55
+Starting account info export job. Batch tracking id : 548 Time 07/25/2016
+11:56:55
+Finished account info export using bulk inserts and writes. Time 07/25/2016
+11:59:39
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:04:37.69
+SQL> Disconnected from Oracle Database 11g Express Edition Release 11.2.0.2.0 - 64bit Production

@@ -1,0 +1,1 @@
+select count(*) from JOB_FRMWRK.T_CUST_ACCT_INFO_XPORT ;
